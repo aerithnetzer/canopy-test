@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://canopy-test.github.io/canopy-test
+Host: https://aerithnetzer.github.io/canopy-test
 
 # Sitemaps
-Sitemap: https://canopy-test.github.io/canopy-test/sitemap.xml
+Sitemap: https://aerithnetzer.github.io/canopy-test/sitemap.xml
